@@ -1,6 +1,6 @@
 # fast-browser-tabs
 ![screenshot](screenshot.jpg)
-allow you to operate browser tabs with one click, saving you time and improving efficiency
+## allow you to operate browser tabs with one click, saving you time and improving efficiency
 Having hotkeys as a means to improve efficiency and even comfort in use, can be a great asset to have, especially when wanting to squeeze every possible bit of ergonomics from your software. Internet browsers and their most commonly used features are subject to such potential implications. In an attempt to provide aid to such requirements, the app will offer you ways to assign hotkeys to some of the most commonly used browser operations, and therefore achieve the preferred level of efficiency in use.
 
 Compact and lightweight, thanks to the portable deployment, coupled with easy toggling for the hotkeys
